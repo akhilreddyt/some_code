@@ -1,4 +1,4 @@
 # some_code
 just a shell script
 
-another line addeda
+another line added
